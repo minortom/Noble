@@ -27,6 +27,13 @@ body {
 }
 
 .ui-btn-active {
-	border-bottom:solid 5px #af49de;
-	background:#ededed;
+	border-bottom:solid 5px #af49de !important;
+	background:#ededed !important;
+	padding-bottom:5px !important;
+}
+
+.ui-navbar .ui-btn:hover {
+	border-bottom:solid 5px #af49de !important;
+	background:#ededed !important;
+	padding-bottom:5px !important;
 }
