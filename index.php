@@ -73,7 +73,7 @@
     <div data-role="page" id="<?php echo $key; ?>">
 	
 		<!-- header -->
-    	<div data-role="header">
+    	<div data-role="header" data-position="fixed">
     		<div class="logo">
 				<img src="img/logo.png" class="ui-btn-left" />
 			</div>
@@ -82,7 +82,7 @@
 		<!-- end of header -->
 
 		<!-- main content -->
-      	<div data-role="main" class="ui-content">
+      	<div data-role="content" >
 		
 			<!-- 1st page -->
 			<?php if($key == "page1"): ?>
