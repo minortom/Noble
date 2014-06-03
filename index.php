@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/jquery.mobile.custom.structure.css">
-    <link rel="stylesheet" href="css/noble.css">
+    <link rel="stylesheet" href="css/jquery.mobile.noble.css">
     <link rel="stylesheet" href="css/fonts/stylesheet.css">
     <link rel="stylesheet" href="css/tomstyle.css">
     <link rel="stylesheet" href="css/pienstyle.css">
