@@ -74,7 +74,9 @@
 	
 		<!-- header -->
     	<div data-role="header">
-			<img src="img/logo.png" class="ui-btn-left" />
+    		<div class="logo">
+				<img src="img/logo.png" class="ui-btn-left" />
+			</div>
 			<h1><?php echo $val; ?></h1>
       	</div>
 		<!-- end of header -->
