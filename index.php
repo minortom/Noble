@@ -135,7 +135,7 @@
 	    		<ul>
 	    			<?php foreach($pageArray as $key2 => $val2): ?>
 	    			<li>
-	    				<a href="#<?php echo $key2; ?>" data-transition="slide" <?php switchPage('trans', $key2); ?> >
+	    				<a href="#<?php echo $key2; ?>" <?php if($key2==$key){echo 'class="ui-btn-active"';} ?> data-transition="slide" <?php switchPage('trans', $key2); ?> >
 	    					<img src="ikons/png/32/<?php switchPage('image', $key2); ?>" alt="<?php echo $key2; ?>">
 						</a>
 					</li>
