@@ -8,3 +8,8 @@ body {
 	margin-top:6px !important;
 	margin-left:4px !important;
 }
+
+.ui-content {
+	height:100%;
+	background:white;
+}
