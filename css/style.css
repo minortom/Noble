@@ -1,3 +1,5 @@
 body {
 	background:url('../img/bg.jpg')  center;
 }
+[data-role="header"] img { width: 34% }
+[data-role="header"] h1 { width: 66%; } 
