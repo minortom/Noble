@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="css/jquery.mobile.custom.structure.css">
     <link rel="stylesheet" href="css/jquery.mobile.custom.theme.css">
     <link rel="stylesheet" href="css/fonts/stylesheet.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/tomstyle.css">
+    <link rel="stylesheet" href="css/pienstyle.css">
     <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="js/jquery.mobile.custom.min.js"></script>
     <script src="js/functions.js"></script>
