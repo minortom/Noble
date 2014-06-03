@@ -28,7 +28,7 @@ var footer = $(".ui-footer").hasClass("ui-footer-fixed") ? $(".ui-footer").outer
    can be skipped by subtracting 32px from content var directly. */
 var contentCurrent = $(".ui-content").outerHeight() - $(".ui-content").height();
 
-var content = screen - header - footer - contentCurrent - 107;
+var content = screen - header - footer - contentCurrent - 94;
 
 $(".ui-content").height(content);
 });
