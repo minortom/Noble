@@ -1,0 +1,10 @@
+body {
+	background:url('../img/bg.jpg')  center;
+}
+
+.ui-btn-left {
+	width:69px;
+	height:23px;
+	margin-top:6px !important;
+	margin-left:4px !important;
+}
