@@ -2,12 +2,9 @@ body {
 	background:url('../img/bg.jpg')  center;
 }
 
-[data-role="header"] h1 { width: 66%; } 
-
 .ui-btn-left {
 	width:69px;
 	height:23px;
 	margin-top:6px !important;
 	margin-left:4px !important;
 }
-
